@@ -1,0 +1,16 @@
+C:\Users\ekalm\source\repos\Project 1.0\bin\Debug\Project 1.0.exe.config
+C:\Users\ekalm\source\repos\Project 1.0\bin\Debug\Project 1.0.exe
+C:\Users\ekalm\source\repos\Project 1.0\bin\Debug\Project 1.0.pdb
+C:\Users\ekalm\source\repos\Project 1.0\obj\Debug\Project 1.0.csprojAssemblyReference.cache
+C:\Users\ekalm\source\repos\Project 1.0\obj\Debug\Project_1._0.AboutBox1.resources
+C:\Users\ekalm\source\repos\Project 1.0\obj\Debug\Project_1._0.Form1.resources
+C:\Users\ekalm\source\repos\Project 1.0\obj\Debug\Project_1._0.Properties.Resources.resources
+C:\Users\ekalm\source\repos\Project 1.0\obj\Debug\Project 1.0.csproj.GenerateResource.cache
+C:\Users\ekalm\source\repos\Project 1.0\obj\Debug\Project 1.0.csproj.CoreCompileInputs.cache
+C:\Users\ekalm\source\repos\Project 1.0\obj\Debug\Project 1.0.exe
+C:\Users\ekalm\source\repos\Project 1.0\obj\Debug\Project 1.0.pdb
+C:\Users\ekalm\source\repos\Project 1.0\obj\Debug\Project_1._0.AddForm.resources
+C:\Users\ekalm\source\repos\Project 1.0\obj\Debug\Project_1._0.OAKForm.resources
+C:\Users\ekalm\source\repos\Project 1.0\obj\Debug\Project_1._0.OAKaddForm.resources
+C:\Users\ekalm\source\repos\Project 1.0\obj\Debug\Project_1._0.BCForm.resources
+C:\Users\ekalm\source\repos\Project 1.0\obj\Debug\Project_1._0.AddBC.resources
